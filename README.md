@@ -79,11 +79,9 @@ void loop(){
   Serial.println(" cm");
 }
 ```
-### PROGRAM FILE:
-![output]()
 
 ### OUTPUT:
-![output]()
+![output](https://github.com/gunasekhar159/Experiment--04-Interfacing-digital-output-with-arduino-ultrasonic-sensor/blob/main/e4.png?raw=true)
 
 
 ### RESULTS :
